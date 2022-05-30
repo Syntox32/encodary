@@ -4,7 +4,7 @@ A script for generating rainbow tables for simple encodings and string transform
 
 Running this will create the canaries:
 ```
-python3 generate_canaries.py
+python3 encodary.py
 ```
 
 This creates three new files in this the same directory:
